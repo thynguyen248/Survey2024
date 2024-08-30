@@ -1,0 +1,13 @@
+{
+    "data": {
+        "id": "38650",
+        "type": "token",
+        "attributes": {
+            "access_token": "DIQJBvVeYE_Ohu3ZcFMA6KWkgo14cDlBbwRIuEgHXKs",
+            "token_type": "Bearer",
+            "expires_in": 7200,
+            "refresh_token": "NwH9Ruw8gr0Mv6NTlI0qQ4RHi7WctMqyy1M4_14xUZU",
+            "created_at": 1724498251
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "data": [{
+        "id": "1",
+        "type": "survey",
+        "attributes": {
+            "title": "Scarlett Bangkok",
+            "description": "We'd love ot hear from you!",
+            "cover_image_url": "https://dhdbhh0jsld0o.cloudfront.net/m/1ea51560991bcb7d00d0_",
+        }
+    },
+    {
+        "id": "2",
+        "type": "survey",
+        "attributes": {
+            "title": "21 on Rajah",
+            "description": "We'd love ot hear from you!",
+            "cover_image_url": "https://dhdbhh0jsld0o.cloudfront.net/m/1ea51560991bcb7d00d0_",
+        }
+    },
+    {
+        "id": "3",
+        "type": "survey",
+        "attributes": {
+            "title": "ibis Bangkok Riverside",
+            "description": "We'd love ot hear from you!",
+            "cover_image_url": "https://dhdbhh0jsld0o.cloudfront.net/m/1ea51560991bcb7d00d0_",
+        }
+    }],
+    "meta": {
+        "page": 1,
+        "pages": 5,
+        "page_size": 4,
+        "records": 20
+    }
+}
+        

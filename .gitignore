@@ -1,0 +1,104 @@
+# Xcode files
+.DS_Store
+*.xcuserdatad
+*.xcuserdata
+*.xcscmblueprint
+*.xccheckout
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+*.xcworkspace/xcshareddata/Breakpoints_v2.xcbkptlist
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+*.xcodeproj/project.xcworkspace/xcshareddata/Breakpoints_v2.xcbkptlist
+*.xcodeproj/*.pbxuser
+*.xcodeproj/*.xcuserstate
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Build artifacts
+DerivedData/
+build/
+*.o
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.bcsymbolmap
+*.xcarchive
+
+# Indexing
+*.hmap
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.swiftpm/xcode
+Package.pins
+Package.resolved
+.build/
+
+# CocoaPods (if used alongside SPM)
+Pods/
+Podfile.lock
+Podfile
+
+# Carthage (if used alongside SPM)
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+fastlane/readme.md
+
+# User settings
+*.xcuserstate
+
+# Scheme and configuration files
+*.xcscheme
+
+# Personal settings
+*.moved-aside
+*.swp
+*~
+
+# SwiftLint
+.swiftlint.yml
+
+# SwiftFormat
+.swiftformat
+
+# Archives and Symbols
+*.xcarchive
+*.bcsymbolmap
+
+# App Store
+*.ipa
+*.dSYM.zip
+
+# IDE-specific (JetBrains, VSCode, etc.)
+.idea/
+.vscode/
+*.log
+*.bak
+*.tmp
+*.swp
+
+# macOS-specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
